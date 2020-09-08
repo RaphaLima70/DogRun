@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 74e33bf0c221a5940a76016c0b0b06d9
+timeCreated: 1464363363
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hitdog_0
+    21300002: hitdog_1
+    21300004: hitdog_2
+    21300006: hitdog_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hitdog_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 255
+        width: 673
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline:
+      - - {x: 84.663666, y: 41.721436}
+        - {x: 48.663666, y: 72.721436}
+        - {x: -37.336334, y: 72.721436}
+        - {x: -55.336334, y: 32.721436}
+        - {x: -188.33633, y: -5.2785645}
+        - {x: -188.33633, y: -51.278564}
+        - {x: -187.33633, y: -52.278564}
+        - {x: -86.336334, y: -71.278564}
+        - {x: 95.663666, y: -71.278564}
+        - {x: 111.663666, y: -69.278564}
+        - {x: 189.66367, y: -40.278564}
+        - {x: 189.66367, y: -23.278564}
+        - {x: 175.66367, y: -4.2785645}
+    - name: hitdog_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 261
+        width: 673
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline:
+      - - {x: 162.46213, y: -14.92041}
+        - {x: 47.462128, y: 70.07959}
+        - {x: -8.537872, y: 70.07959}
+        - {x: -176.53787, y: -8.92041}
+        - {x: -188.53787, y: -22.92041}
+        - {x: -188.53787, y: -42.92041}
+        - {x: -174.53787, y: -69.92041}
+        - {x: 189.46213, y: -69.92041}
+        - {x: 189.46213, y: -22.92041}
+        - {x: 178.46213, y: -18.92041}
+    - name: hitdog_2
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 255
+        width: 674
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline:
+      - - {x: 177.2901, y: -11.278564}
+        - {x: 51.2901, y: 66.721436}
+        - {x: 41.2901, y: 72.721436}
+        - {x: -47.7099, y: 72.721436}
+        - {x: -175.7099, y: -8.278564}
+        - {x: -188.7099, y: -20.278564}
+        - {x: -188.7099, y: -42.278564}
+        - {x: -135.7099, y: -71.278564}
+        - {x: 77.2901, y: -71.278564}
+        - {x: 123.2901, y: -68.278564}
+        - {x: 184.2901, y: -44.278564}
+        - {x: 189.2901, y: -35.278564}
+        - {x: 189.2901, y: -22.278564}
+    - name: hitdog_3
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 255
+        width: 674
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 2}
+      outline:
+      - - {x: 46.237427, y: 73.221436}
+        - {x: -41.762573, y: 73.221436}
+        - {x: -188.76257, y: -17.778564}
+        - {x: -188.76257, y: -30.778564}
+        - {x: -174.76257, y: -47.778564}
+        - {x: -147.76257, y: -70.778564}
+        - {x: -137.76257, y: -71.778564}
+        - {x: 155.23743, y: -71.778564}
+        - {x: 189.23743, y: -45.778564}
+        - {x: 189.23743, y: -16.778564}
+        - {x: 62.237427, y: 15.221436}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
